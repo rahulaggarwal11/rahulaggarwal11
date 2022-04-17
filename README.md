@@ -27,12 +27,4 @@ This is the place where I code stuff and break things :rofl:
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-<h2>🚀 Where you can find me</h2>
-<a href="https://www.linkedin.com/in/rahulaggarwal11/">
-  <img align="left" alt="rahulaggarwal's LinkdeIN" width="30px" src="https://github.com/rahulaggarwal11/rahulaggarwal11.github.io/blob/master/images/linkedin.png" />
-</a>
-<a href="https://www.youtube.com/channel/UCOMk7vEQ9dKvlC6T2lKF5Yg">
-  <img align="left" alt="rahulaggarwal's YouTube" width="30px" src="https://github.com/rahulaggarwal11/rahulaggarwal11.github.io/blob/master/images/youtube.png" />
-</a>
-
 <br />
